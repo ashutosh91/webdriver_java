@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db5e1b9d-2015-491a-b973-531e414b5414" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RdRPz5JU79oyx1kNqyjeAyEY1q" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\program files\IdeaProjects\webdriver_java\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.SliderTests.testSlideToWholeNumber">
+    <configuration name="NumberFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPractice.NumberFrequency" />
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoverTests.testHoverUser1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hover" />
+      <option name="MAIN_CLASS_NAME" value="hover.HoverTests" />
+      <option name="METHOD_NAME" value="testHoverUser1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeysTests.testBackspace" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="keys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="keys" />
+      <option name="MAIN_CLASS_NAME" value="keys.KeysTests" />
+      <option name="METHOD_NAME" value="testBackspace" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeysTests.testPi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="keys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="keys" />
+      <option name="MAIN_CLASS_NAME" value="keys.KeysTests" />
+      <option name="METHOD_NAME" value="testPi" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SliderTests.testSlideToWholeNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.chapter6.slider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slider" />
+      <option name="MAIN_CLASS_NAME" value="exercises.chapter6.slider.SliderTests" />
+      <option name="METHOD_NAME" value="testSlideToWholeNumber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SliderTests.testSlideToWholeNumber" />
+        <item itemvalue="TestNG.KeysTests.testPi" />
+        <item itemvalue="TestNG.KeysTests.testBackspace" />
+        <item itemvalue="TestNG.HoverTests.testHoverUser1" />
+        <item itemvalue="Application.NumberFrequency" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db5e1b9d-2015-491a-b973-531e414b5414" name="Default Changelist" comment="" />
+      <created>1569994967441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569994967441</updated>
+    </task>
+    <servers />
+  </component>
+</project>
